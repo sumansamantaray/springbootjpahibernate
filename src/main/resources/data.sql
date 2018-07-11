@@ -1,0 +1,2 @@
+insert into MY_EMAIL_PREFERENCES (account_number, email_address, domesticInb, domesticOut, internationalInb, internationalOut, bookInb, bookOut, email_format) values ('1', '2', '3', '4', '5', '6', '7', '8', '9')
+insert into MY_EMAIL_PREFERENCES (account_number, email_address, domesticInb, domesticOut, internationalInb, internationalOut, bookInb, bookOut, email_format) values ('1234567890', 'suman.samantaray1@email.com', 'N', 'N', 'N', 'N', 'N', 'N', 'HTML')

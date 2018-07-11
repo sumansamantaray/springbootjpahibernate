@@ -1,0 +1,6 @@
+1234567890|suman.samantaray1@email.com|N|N|N|N|N|N|HTML|D
+1234567891|suman.samantaray2@email.com|N|N|N|N|N|N|HTML|A
+1234567892|suman.samantaray3@email.com|N|N|N|N|N|N|HTML|U
+1234567893|suman.samantaray4@email.com|N|N|N|N|N|N|HTML|D
+1234567894|suman.samantaray5@email.com|N|N|N|N|N|N|HTML|D
+1234567895|suman.samantaray6@email.com|N|N|N|N|N|N|HTML|A
