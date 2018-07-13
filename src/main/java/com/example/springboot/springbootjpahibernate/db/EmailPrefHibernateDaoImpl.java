@@ -29,7 +29,6 @@ public class EmailPrefHibernateDaoImpl implements EmailPrefHibernateDao {
 	 * @see com.example.springboot.springbootjpahibernate.db.EmailPrefHibernateDao#insertEmailPreference(com.example.springboot.springbootjpahibernate.db.model.EmailPreferenceEntity)
 	 */
 	@Override
-	@Bean
 	public int insertEmailPreference(EmailPreferenceEntity emailPrefObj) {
 		em.getTransaction().begin();
 		em.persist(emailPrefObj);
@@ -41,7 +40,6 @@ public class EmailPrefHibernateDaoImpl implements EmailPrefHibernateDao {
 	 * @see com.example.springboot.springbootjpahibernate.db.EmailPrefHibernateDao#updateEmailPreference(com.example.springboot.springbootjpahibernate.db.model.EmailPreferenceEntity)
 	 */
 	@Override
-	@Bean
 	public int updateEmailPreference(EmailPreferenceEntity emailPrefObj) {
 		// TODO Auto-generated method stub
 		return 0;
@@ -51,7 +49,6 @@ public class EmailPrefHibernateDaoImpl implements EmailPrefHibernateDao {
 	 * @see com.example.springboot.springbootjpahibernate.db.EmailPrefHibernateDao#deleteEmailPreference(com.example.springboot.springbootjpahibernate.db.model.EmailPreferenceEntity)
 	 */
 	@Override
-	@Bean
 	public int deleteEmailPreference(EmailPreferenceEntity emailPrefObj) {
 		// TODO Auto-generated method stub
 		return 0;
